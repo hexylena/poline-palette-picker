@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"culori": "^4.0.1",
+		"poline": "^0.7.0"
+	}
+}
